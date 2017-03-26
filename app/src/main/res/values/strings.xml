@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ancient Ocean</string>
+    <string name="action_settings">Settings</string>
+    <string name="greetings">Hi Spotify/TTP! Thanks for this code challenge!</string>
+    <string name="requiredRequest">Make GET request to /people</string>
+    <string name="postRequest">Post to /people</string>
+    <string name="previousRequest">Get person from previous request</string>
+    <string name="changeBrooklyn">Modify City to Brooklyn</string>
+    <string name="requestForPersonOne">Get to /people/1</string>
+    <string name="deleteRequest">Delete /person/1</string>
+</resources>
